@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/QuestApplication.iml" filepath="$PROJECT_DIR$/QuestApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/optiondiary/optiondiary.iml" filepath="$PROJECT_DIR$/optiondiary/optiondiary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/questdiary/questdiary.iml" filepath="$PROJECT_DIR$/questdiary/questdiary.iml" />
     </modules>
   </component>
 </project>
